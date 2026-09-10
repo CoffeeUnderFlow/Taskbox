@@ -47,3 +47,18 @@ const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
 const char* WEB_USER = "taskbox";
 const char* WEB_PASS = "taskbox";
 const char* OTA_PASS = "taskbox";
+
+
+## 🚀 Getting Started
+
+1. Clone or download this repository into your Arduino sketchbook directory.
+2. Ensure you have the required libraries installed (`LiquidCrystal_I2C`, `ESP8266WiFi`, etc.).
+3. Open `Taskbox.ino` in the Arduino IDE.
+4. Select your **NodeMCU 1.0 (ESP-12E Module)** board and correct COM port.
+5. Compile and upload to your ESP8266!
+
+---
+
+## 📄 License & Credits
+
+Developed by **CoffeeUnderFlow**. Visit [coffeeunderflow.in](https://coffeeunderflow.in/) for more projects.
