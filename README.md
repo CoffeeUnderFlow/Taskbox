@@ -1,4 +1,4 @@
-# 📦 TaskBox V3 - Fully Integrated Smart Task Console
+# 📦 TaskBox - Fully Integrated Smart Task Console
 
 An ESP8266-powered smart task management device featuring an I2C LCD, capacitive touch controls, a buzzer audio engine, and a secure local web dashboard. Designed and built by **[CoffeeUnderFlow](https://coffeeunderflow.in/)**.
 
