@@ -19,8 +19,8 @@
 // =========================
 // 1. USER CONFIGURATION
 // =========================
-const char* WIFI_SSID = "STRANGER'S HOTSPOT";
-const char* WIFI_PASS = "nothingisfree";
+const char* WIFI_SSID = "YOUR_WIFI_SSID";
+const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
 
 const char* WEB_USER = "taskbox";
 const char* WEB_PASS = "taskbox";
